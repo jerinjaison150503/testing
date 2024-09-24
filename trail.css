@@ -1,0 +1,25 @@
+p{
+    color: brown;
+}
+.para{
+    color: blue;
+}
+#pr{
+    color: hsl(30deg, 50%, 90%)
+}
+input[type="text"]{
+    color: rgb(255, 123, 0);
+}
+ul li{
+    color: 120deg,50%,90%;
+}
+ul>li{
+    color: rgb(126, 81, 231);
+}
+h1+p{
+    color: teal;
+}
+h1~p {
+    color: #ff03f5;
+    background-color: burlywood;
+}
